@@ -1,1 +1,1 @@
-Terraform control repo detailing how to create everything you need from scratch.
+Terraform created during onboarding.
